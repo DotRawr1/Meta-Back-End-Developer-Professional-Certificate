@@ -1,0 +1,16 @@
+h1 {
+    color: purple;
+}
+
+#header1 {
+    color:green;
+}
+
+/*
+h1 = selector
+color = property
+purple = value
+inside bracket = declaration block
+
+more specific = more important
+*/
