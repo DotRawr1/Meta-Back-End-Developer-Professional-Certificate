@@ -1,6 +1,3 @@
-# Meta-Back-End-Developer-Professional-Certificate
-My notes for the Meta Back-End Developer Professional Certificate
-
 ## [Course 1 - Introduction to Back-End Development](https://github.com/DotRawr1/Meta-Back-End-Developer-Professional-Certificate/tree/main/1%20-%20Introduction%20To%20Back-End%20Development)
 - ### [Week 1 - Intro to Web Development](https://github.com/DotRawr1/Meta-Back-End-Developer-Professional-Certificate/tree/main/1%20-%20Introduction%20To%20Back-End%20Development/Week-1)
 - ### [Week 2 - Intro to CSS and HTML](https://github.com/DotRawr1/Meta-Back-End-Developer-Professional-Certificate/tree/main/1%20-%20Introduction%20To%20Back-End%20Development/Week-2)
